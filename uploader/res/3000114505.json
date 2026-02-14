@@ -1,0 +1,995 @@
+{
+  "title": "Earth science",
+  "authors": "Marc S. Hendrix／Graham R. Thompson／Jonathan Turk（著）",
+  "publisher": "センゲージラーニング",
+  "publication_country": "日本",
+  "language": "英語",
+  "publication_date": "2021/01",
+  "page_count": "640 p.",
+  "isbn": "9780357116562",
+  "eisbn": "9780357120088",
+  "genre": "理工学",
+  "ndc_class": "450",
+  "subject": "Earth sciences",
+  "content_id": "3000114505",
+  "downloadable_after_purchase": "不可",
+  "description": "",
+  "table_of_contents": [
+    {
+      "chapter": "Cover",
+      "page": 1
+    },
+    {
+      "chapter": "Title",
+      "page": 2
+    },
+    {
+      "chapter": "Copyright",
+      "page": 3
+    },
+    {
+      "chapter": "Brief Contents",
+      "page": 4
+    },
+    {
+      "chapter": "Contents",
+      "page": 5
+    },
+    {
+      "chapter": "PREFACE",
+      "page": 13
+    },
+    {
+      "chapter": "1: EARTH SYSTEMS",
+      "page": 16
+    },
+    {
+      "chapter": "Introduction",
+      "page": 17
+    },
+    {
+      "chapter": "The Earth’s Four Spheres",
+      "page": 17
+    },
+    {
+      "chapter": "Earth Systems",
+      "page": 22
+    },
+    {
+      "chapter": "Time and Rates of Change in Earth Science",
+      "page": 23
+    },
+    {
+      "chapter": "Threshold and Feedback Effects",
+      "page": 27
+    },
+    {
+      "chapter": "Humans and Earth Systems",
+      "page": 28
+    },
+    {
+      "chapter": "2: MINERALS",
+      "page": 32
+    },
+    {
+      "chapter": "Introduction",
+      "page": 33
+    },
+    {
+      "chapter": "What Is a Mineral?",
+      "page": 33
+    },
+    {
+      "chapter": "The Chemical Composition of Minerals",
+      "page": 34
+    },
+    {
+      "chapter": "The Crystalline Nature of Minerals",
+      "page": 35
+    },
+    {
+      "chapter": "Physical Properties of Minerals",
+      "page": 35
+    },
+    {
+      "chapter": "Mineral Classes and the Rock-Forming Minerals",
+      "page": 39
+    },
+    {
+      "chapter": "Commercially Important Minerals",
+      "page": 42
+    },
+    {
+      "chapter": "Harmful and Dangerous Rocks and Minerals",
+      "page": 43
+    },
+    {
+      "chapter": "DIGGING DEEPER Here to Stay: Mercury",
+      "page": 45
+    },
+    {
+      "chapter": "3: ROCKS",
+      "page": 48
+    },
+    {
+      "chapter": "Introduction",
+      "page": 49
+    },
+    {
+      "chapter": "Rocks and the Rock Cycle",
+      "page": 49
+    },
+    {
+      "chapter": "Igneous Rocks",
+      "page": 51
+    },
+    {
+      "chapter": "Sedimentary Rocks",
+      "page": 57
+    },
+    {
+      "chapter": "DIGGING DEEPER Gravel Mining and Sustainability",
+      "page": 67
+    },
+    {
+      "chapter": "Metamorphic Rocks",
+      "page": 69
+    },
+    {
+      "chapter": "4: GEOLOGIC TIME",
+      "page": 75
+    },
+    {
+      "chapter": "Earth Rocks, Earth History, and Mass Extinctions",
+      "page": 76
+    },
+    {
+      "chapter": "Geologic Time",
+      "page": 81
+    },
+    {
+      "chapter": "Relative Geologic Time",
+      "page": 81
+    },
+    {
+      "chapter": "Unconformities and Correlation",
+      "page": 84
+    },
+    {
+      "chapter": "Absolute Geologic Time",
+      "page": 91
+    },
+    {
+      "chapter": "The Geologic Time Scale",
+      "page": 97
+    },
+    {
+      "chapter": "5: GEOLOGIC RESOURCES",
+      "page": 102
+    },
+    {
+      "chapter": "Introduction",
+      "page": 103
+    },
+    {
+      "chapter": "Mineral Resources",
+      "page": 103
+    },
+    {
+      "chapter": "Ore and Ore Deposits",
+      "page": 104
+    },
+    {
+      "chapter": "DIGGING DEEPER Manganese Nodules",
+      "page": 109
+    },
+    {
+      "chapter": "Mineral Reserves vs. Mineral Resources",
+      "page": 110
+    },
+    {
+      "chapter": "Mines and Mining",
+      "page": 113
+    },
+    {
+      "chapter": "Energy Resources: Coal, Petroleum, and Natural Gas",
+      "page": 114
+    },
+    {
+      "chapter": "Unconventional Petroleum and Gas Reservoirs",
+      "page": 118
+    },
+    {
+      "chapter": "Energy Resources: Nuclear Fuels and Reactors",
+      "page": 122
+    },
+    {
+      "chapter": "Energy Resources: Renewable Energy",
+      "page": 124
+    },
+    {
+      "chapter": "Conservation as an Alternative Energy Resource",
+      "page": 128
+    },
+    {
+      "chapter": "Energy for the 21st Century",
+      "page": 131
+    },
+    {
+      "chapter": "6: THE ACTIVE EARTH",
+      "page": 134
+    },
+    {
+      "chapter": "The Origins of Continents and Oceans",
+      "page": 135
+    },
+    {
+      "chapter": "Alfred Wegener and the Origin of an Idea: The Continental Drift Hypothesis",
+      "page": 135
+    },
+    {
+      "chapter": "The Earth’s Layers",
+      "page": 138
+    },
+    {
+      "chapter": "The Seafloor Spreading Hypothesis",
+      "page": 141
+    },
+    {
+      "chapter": "The Theory of Plate Tectonics",
+      "page": 145
+    },
+    {
+      "chapter": "The Anatomy of a Tectonic Plate",
+      "page": 151
+    },
+    {
+      "chapter": "Why Plates Move: The Earth as a Heat Engine",
+      "page": 151
+    },
+    {
+      "chapter": "Supercontinents",
+      "page": 153
+    },
+    {
+      "chapter": "Isostasy: Vertical Movement of the Lithosphere",
+      "page": 154
+    },
+    {
+      "chapter": "How Plate Tectonics Affect Earth’s Surface",
+      "page": 155
+    },
+    {
+      "chapter": "How Plate Tectonics Affect Earth’s Climate",
+      "page": 157
+    },
+    {
+      "chapter": "7: EARTHQUAKES AND THE EARTH’S STRUCTURE",
+      "page": 160
+    },
+    {
+      "chapter": "Introduction",
+      "page": 161
+    },
+    {
+      "chapter": "Anatomy of an Earthquake",
+      "page": 161
+    },
+    {
+      "chapter": "Earthquake Waves",
+      "page": 164
+    },
+    {
+      "chapter": "Earthquakes and Tectonic Plate Boundaries",
+      "page": 170
+    },
+    {
+      "chapter": "Earthquake Damage and Hazard Mitigation",
+      "page": 173
+    },
+    {
+      "chapter": "Earthquake Prediction",
+      "page": 176
+    },
+    {
+      "chapter": "DIGGING DEEPER Earthquakes in Cascadia",
+      "page": 177
+    },
+    {
+      "chapter": "Studying the Earth’s Interior",
+      "page": 179
+    },
+    {
+      "chapter": "Earth’s Magnetism",
+      "page": 181
+    },
+    {
+      "chapter": "8: VOLCANOES AND PLUTONS",
+      "page": 185
+    },
+    {
+      "chapter": "Magma",
+      "page": 186
+    },
+    {
+      "chapter": "Basalt and Granite",
+      "page": 190
+    },
+    {
+      "chapter": "Partial Melting and the Origin of Continents",
+      "page": 190
+    },
+    {
+      "chapter": "Magma Behavior",
+      "page": 191
+    },
+    {
+      "chapter": "Plutons",
+      "page": 193
+    },
+    {
+      "chapter": "Volcanoes",
+      "page": 195
+    },
+    {
+      "chapter": "Volcanic Explosions: Ash-Flow Tuffs and Calderas",
+      "page": 202
+    },
+    {
+      "chapter": "DIGGING DEEPER The Destruction of Pompeii",
+      "page": 204
+    },
+    {
+      "chapter": "DIGGING DEEPER The Yellowstone Volcano",
+      "page": 205
+    },
+    {
+      "chapter": "Risk Assessment: Predicting Volcanic Eruptions",
+      "page": 206
+    },
+    {
+      "chapter": "Volcanic Eruptions and Global Climate",
+      "page": 210
+    },
+    {
+      "chapter": "9: MOUNTAINS",
+      "page": 214
+    },
+    {
+      "chapter": "Folds and Faults: Geologic Structures",
+      "page": 215
+    },
+    {
+      "chapter": "Mountains and Mountain Ranges",
+      "page": 225
+    },
+    {
+      "chapter": "Island Arcs: Subduction Where Two Oceanic Plates Converge",
+      "page": 226
+    },
+    {
+      "chapter": "The Andes: Subduction at a Continental Margin",
+      "page": 227
+    },
+    {
+      "chapter": "The Himalayas: A Collision between Continents",
+      "page": 230
+    },
+    {
+      "chapter": "Mountains and Earth Systems",
+      "page": 235
+    },
+    {
+      "chapter": "10: WEATHERING, SOIL, AND EROSION",
+      "page": 238
+    },
+    {
+      "chapter": "Introduction",
+      "page": 239
+    },
+    {
+      "chapter": "Weathering and Erosion",
+      "page": 239
+    },
+    {
+      "chapter": "Mechanical Weathering",
+      "page": 240
+    },
+    {
+      "chapter": "Chemical Weathering",
+      "page": 243
+    },
+    {
+      "chapter": "Soil",
+      "page": 247
+    },
+    {
+      "chapter": "Mass Wasting and Landslides",
+      "page": 257
+    },
+    {
+      "chapter": "DIGGING DEEPER Soil Erosion and Human Activities",
+      "page": 257
+    },
+    {
+      "chapter": "Types of Rapid Mass Wasting",
+      "page": 258
+    },
+    {
+      "chapter": "Predicting and Avoiding the Effects of Mass Wasting",
+      "page": 262
+    },
+    {
+      "chapter": "11: FRESHWATER",
+      "page": 267
+    },
+    {
+      "chapter": "Introduction",
+      "page": 268
+    },
+    {
+      "chapter": "The Water Cycle",
+      "page": 268
+    },
+    {
+      "chapter": "Streams",
+      "page": 269
+    },
+    {
+      "chapter": "DIGGING DEEPER The Richest Hill on Earth and Location of the Idaho-Montana State Line",
+      "page": 277
+    },
+    {
+      "chapter": "Stream Deposition",
+      "page": 278
+    },
+    {
+      "chapter": "Floods",
+      "page": 280
+    },
+    {
+      "chapter": "Lakes",
+      "page": 285
+    },
+    {
+      "chapter": "Wetlands",
+      "page": 286
+    },
+    {
+      "chapter": "Groundwater",
+      "page": 288
+    },
+    {
+      "chapter": "Hot Springs, Geysers, and Geothermal Energy",
+      "page": 292
+    },
+    {
+      "chapter": "12: WATER RESOURCES",
+      "page": 296
+    },
+    {
+      "chapter": "Introduction",
+      "page": 297
+    },
+    {
+      "chapter": "Water Supply and Demand",
+      "page": 297
+    },
+    {
+      "chapter": "Dams and Diversion",
+      "page": 302
+    },
+    {
+      "chapter": "The Great American Desert",
+      "page": 311
+    },
+    {
+      "chapter": "Water and International Politics",
+      "page": 312
+    },
+    {
+      "chapter": "DIGGING DEEPER The Los Angeles Water Project",
+      "page": 313
+    },
+    {
+      "chapter": "Water Pollution",
+      "page": 314
+    },
+    {
+      "chapter": "DIGGING DEEPER Love Canal",
+      "page": 315
+    },
+    {
+      "chapter": "How Sewage, Detergents, and Fertilizers Pollute Waterways",
+      "page": 317
+    },
+    {
+      "chapter": "Toxic Pollutants, Risk Assessment, and Cost–Benefit Analysis",
+      "page": 317
+    },
+    {
+      "chapter": "Groundwater Pollution",
+      "page": 318
+    },
+    {
+      "chapter": "DIGGING DEEPER Yucca Mountain Controversy",
+      "page": 319
+    },
+    {
+      "chapter": "Nuclear Waste Disposal",
+      "page": 321
+    },
+    {
+      "chapter": "The Clean Water Act: A Modern Perspective",
+      "page": 322
+    },
+    {
+      "chapter": "13: GLACIERS AND GLACIATIONS",
+      "page": 324
+    },
+    {
+      "chapter": "Introduction",
+      "page": 325
+    },
+    {
+      "chapter": "Formation of Glaciers",
+      "page": 325
+    },
+    {
+      "chapter": "Glacial Movement",
+      "page": 326
+    },
+    {
+      "chapter": "Glacial Erosion",
+      "page": 329
+    },
+    {
+      "chapter": "Glacial Deposits",
+      "page": 333
+    },
+    {
+      "chapter": "DIGGING DEEPER Glacial Erratics and Canadian Diamonds",
+      "page": 335
+    },
+    {
+      "chapter": "The Pleistocene Glaciation",
+      "page": 340
+    },
+    {
+      "chapter": "Snowball Earth: The Greatest Glaciation in Earth’s History",
+      "page": 342
+    },
+    {
+      "chapter": "The Earth’s Disappearing Glaciers",
+      "page": 342
+    },
+    {
+      "chapter": "14: DESERTS AND WIND",
+      "page": 347
+    },
+    {
+      "chapter": "Introduction",
+      "page": 348
+    },
+    {
+      "chapter": "Why Do Deserts Exist",
+      "page": 348
+    },
+    {
+      "chapter": "Water and Deserts",
+      "page": 350
+    },
+    {
+      "chapter": "Two American Deserts",
+      "page": 353
+    },
+    {
+      "chapter": "Wind",
+      "page": 356
+    },
+    {
+      "chapter": "DIGGING DEEPER The North American “Dust Bowl\"",
+      "page": 361
+    },
+    {
+      "chapter": "Desertification",
+      "page": 363
+    },
+    {
+      "chapter": "15: OCEAN BASINS",
+      "page": 366
+    },
+    {
+      "chapter": "The Origin of Oceans",
+      "page": 367
+    },
+    {
+      "chapter": "The Earth’s Oceans",
+      "page": 369
+    },
+    {
+      "chapter": "Studying the Seafloor",
+      "page": 370
+    },
+    {
+      "chapter": "DIGGING DEEPER Invaluable sediment archives recently recovered from the deep ocean floor",
+      "page": 371
+    },
+    {
+      "chapter": "Features of the Seafloor",
+      "page": 375
+    },
+    {
+      "chapter": "Sediment and Rocks of the Seafloor",
+      "page": 384
+    },
+    {
+      "chapter": "Continental Margins",
+      "page": 387
+    },
+    {
+      "chapter": "16: OCEANS AND COASTLINES",
+      "page": 394
+    },
+    {
+      "chapter": "Introduction",
+      "page": 395
+    },
+    {
+      "chapter": "Geography of the Oceans",
+      "page": 395
+    },
+    {
+      "chapter": "Seawater",
+      "page": 396
+    },
+    {
+      "chapter": "Tides",
+      "page": 399
+    },
+    {
+      "chapter": "Sea Waves",
+      "page": 401
+    },
+    {
+      "chapter": "Ocean Currents",
+      "page": 401
+    },
+    {
+      "chapter": "The Seacoast",
+      "page": 408
+    },
+    {
+      "chapter": "Emergent and Submergent Coastlines",
+      "page": 411
+    },
+    {
+      "chapter": "Beaches",
+      "page": 412
+    },
+    {
+      "chapter": "Life in the Sea",
+      "page": 418
+    },
+    {
+      "chapter": "Global Warming and Rising Sea Level",
+      "page": 422
+    },
+    {
+      "chapter": "17: THE ATMOSPHERE",
+      "page": 425
+    },
+    {
+      "chapter": "Introduction",
+      "page": 426
+    },
+    {
+      "chapter": "Earth’s Early Atmospheres",
+      "page": 426
+    },
+    {
+      "chapter": "The Modern Atmosphere",
+      "page": 431
+    },
+    {
+      "chapter": "Atmospheric Pressure",
+      "page": 432
+    },
+    {
+      "chapter": "Atmospheric Temperature",
+      "page": 433
+    },
+    {
+      "chapter": "Air Pollution",
+      "page": 435
+    },
+    {
+      "chapter": "Depletion of the Ozone Layer",
+      "page": 440
+    },
+    {
+      "chapter": "18: ENERGY BALANCE IN THE ATMOSPHERE",
+      "page": 445
+    },
+    {
+      "chapter": "Introduction",
+      "page": 446
+    },
+    {
+      "chapter": "Incoming Solar Radiation",
+      "page": 446
+    },
+    {
+      "chapter": "The Radiation Balance",
+      "page": 449
+    },
+    {
+      "chapter": "Energy Storage and Transfer: The Driving Mechanisms for Weather and Climate",
+      "page": 452
+    },
+    {
+      "chapter": "Temperature Changes with Latitude and Season",
+      "page": 455
+    },
+    {
+      "chapter": "DIGGING DEEPER Latitude and Longitude",
+      "page": 455
+    },
+    {
+      "chapter": "Temperature Changes with Geography",
+      "page": 458
+    },
+    {
+      "chapter": "19: MOISTURE, CLOUDS, AND WEATHER",
+      "page": 464
+    },
+    {
+      "chapter": "Moisture in Air",
+      "page": 465
+    },
+    {
+      "chapter": "Cooling and Condensation",
+      "page": 466
+    },
+    {
+      "chapter": "Rising Air and Precipitation",
+      "page": 468
+    },
+    {
+      "chapter": "Types of Clouds",
+      "page": 470
+    },
+    {
+      "chapter": "Fog",
+      "page": 472
+    },
+    {
+      "chapter": "Pressure and Wind",
+      "page": 473
+    },
+    {
+      "chapter": "Pressure Gradient",
+      "page": 473
+    },
+    {
+      "chapter": "Fronts and Frontal Weather",
+      "page": 476
+    },
+    {
+      "chapter": "How the Earth’s Surface Features Affect Weather",
+      "page": 481
+    },
+    {
+      "chapter": "Thunderstorms",
+      "page": 482
+    },
+    {
+      "chapter": "Tornadoes and Tropical Cyclones",
+      "page": 484
+    },
+    {
+      "chapter": "Hurricane Katrina",
+      "page": 487
+    },
+    {
+      "chapter": "EL NIÑO",
+      "page": 488
+    },
+    {
+      "chapter": "20: CLIMATE",
+      "page": 492
+    },
+    {
+      "chapter": "Introduction",
+      "page": 493
+    },
+    {
+      "chapter": "Global Winds and Climate",
+      "page": 493
+    },
+    {
+      "chapter": "Climate Zones of Earth",
+      "page": 495
+    },
+    {
+      "chapter": "Urban Climates",
+      "page": 503
+    },
+    {
+      "chapter": "21: CLIMATE CHANGE",
+      "page": 507
+    },
+    {
+      "chapter": "Introduction",
+      "page": 508
+    },
+    {
+      "chapter": "Climate Change in Earth’s History",
+      "page": 508
+    },
+    {
+      "chapter": "Measuring Climate Change",
+      "page": 510
+    },
+    {
+      "chapter": "Astronomical Causes of Climate Change",
+      "page": 512
+    },
+    {
+      "chapter": "Water and Climate",
+      "page": 513
+    },
+    {
+      "chapter": "The Natural Carbon Cycle and Climate",
+      "page": 513
+    },
+    {
+      "chapter": "Tectonics and Climate Change",
+      "page": 516
+    },
+    {
+      "chapter": "Greenhouse Effect: The Carbon Cycle and Global Warming",
+      "page": 518
+    },
+    {
+      "chapter": "Feedback and Threshold Mechanisms in Climate Change",
+      "page": 526
+    },
+    {
+      "chapter": "22: MOTIONS IN THE HEAVENS",
+      "page": 530
+    },
+    {
+      "chapter": "The Motions of the Heavenly Bodies",
+      "page": 531
+    },
+    {
+      "chapter": "Aristotle and the Earth-Centered Universe",
+      "page": 531
+    },
+    {
+      "chapter": "The Renaissance and the Heliocentric Solar System",
+      "page": 533
+    },
+    {
+      "chapter": "The Motions of the Earth and the Moon",
+      "page": 536
+    },
+    {
+      "chapter": "Modern Astronomy",
+      "page": 540
+    },
+    {
+      "chapter": "23: PLANETS AND THEIR MOONS",
+      "page": 545
+    },
+    {
+      "chapter": "The Solar System: A Brief Overview",
+      "page": 546
+    },
+    {
+      "chapter": "The Terrestrial Planets",
+      "page": 549
+    },
+    {
+      "chapter": "The Moon: Our Nearest Neighbor",
+      "page": 556
+    },
+    {
+      "chapter": "The Jovian Planets: Size, Compositions, and Atmospheres",
+      "page": 559
+    },
+    {
+      "chapter": "Moons of the Jovian Planets",
+      "page": 562
+    },
+    {
+      "chapter": "Planetary Rings",
+      "page": 565
+    },
+    {
+      "chapter": "Pluto and Other Dwarf Planets",
+      "page": 566
+    },
+    {
+      "chapter": "Asteroids, Comets, and Meteoroids",
+      "page": 566
+    },
+    {
+      "chapter": "24: STARS, SPACE, AND GALAXIES",
+      "page": 572
+    },
+    {
+      "chapter": "Introduction",
+      "page": 573
+    },
+    {
+      "chapter": "In the Beginning: The Big Bang",
+      "page": 573
+    },
+    {
+      "chapter": "The Nonhomogeneous Universe",
+      "page": 575
+    },
+    {
+      "chapter": "The Birth of a Star",
+      "page": 576
+    },
+    {
+      "chapter": "The Sun",
+      "page": 578
+    },
+    {
+      "chapter": "Stars: The Main Sequence",
+      "page": 580
+    },
+    {
+      "chapter": "The Life and Death of a Star",
+      "page": 581
+    },
+    {
+      "chapter": "Neutron Stars, Pulsars, and Black Holes",
+      "page": 585
+    },
+    {
+      "chapter": "Galaxies",
+      "page": 588
+    },
+    {
+      "chapter": "The Milky Way",
+      "page": 590
+    },
+    {
+      "chapter": "Quasars",
+      "page": 591
+    },
+    {
+      "chapter": "Dark Matter",
+      "page": 593
+    },
+    {
+      "chapter": "The End of the Universe",
+      "page": 593
+    },
+    {
+      "chapter": "Why Are We So Lucky?",
+      "page": 593
+    },
+    {
+      "chapter": "APPENDIX A: English-Metric Conversion Chart",
+      "page": 597
+    },
+    {
+      "chapter": "APPENDIX B: Earth Science Mineral Identification",
+      "page": 598
+    },
+    {
+      "chapter": "Glossary",
+      "page": 600
+    },
+    {
+      "chapter": "Index",
+      "page": 623
+    }
+  ]
+}

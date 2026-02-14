@@ -1,0 +1,203 @@
+{
+  "title": "論理回路入門",
+  "authors": "浜辺, 隆二（著）",
+  "publisher": "森北出版",
+  "publication_country": "日本",
+  "language": "日本語",
+  "publication_date": "2021/12",
+  "page_count": "160p",
+  "isbn": "9784627823648",
+  "eisbn": "9784627341050",
+  "genre": "理工学 > 電気・電子工学 > 電気機器",
+  "ndc_class": "549.3",
+  "subject": "論理回路",
+  "content_id": "3000115003",
+  "downloadable_after_purchase": "可(10ページ)",
+  "description": "ロングセラーテキストがフルカラーになりました。豊富な例題・演習問題を解きながら、論理回路のエッセンスを身につけましょう！",
+  "table_of_contents": [
+    {
+      "chapter": "表紙",
+      "page": 3
+    },
+    {
+      "chapter": "まえがき",
+      "page": 5
+    },
+    {
+      "chapter": "目次",
+      "page": 8
+    },
+    {
+      "chapter": "第1章数と符号の表現",
+      "page": 11
+    },
+    {
+      "chapter": "1.1 数体系",
+      "page": 11
+    },
+    {
+      "chapter": "1.2 符号体系",
+      "page": 25
+    },
+    {
+      "chapter": "本章のまとめ",
+      "page": 30
+    },
+    {
+      "chapter": "演習問題",
+      "page": 30
+    },
+    {
+      "chapter": "第2章論理関数",
+      "page": 32
+    },
+    {
+      "chapter": "2.1 基本論理演算",
+      "page": 32
+    },
+    {
+      "chapter": "2.2 論理関数の標準形と真理値表",
+      "page": 47
+    },
+    {
+      "chapter": "本章のまとめ",
+      "page": 58
+    },
+    {
+      "chapter": "演習問題",
+      "page": 58
+    },
+    {
+      "chapter": "第3章論理関数の簡単化",
+      "page": 60
+    },
+    {
+      "chapter": "3.1 簡単化とは",
+      "page": 60
+    },
+    {
+      "chapter": "3.2 カルノー図による簡単化",
+      "page": 62
+    },
+    {
+      "chapter": "3.3 カルノー図による乗法形の簡単化",
+      "page": 67
+    },
+    {
+      "chapter": "3.4 ドントケア項を用いたカルノー図による簡単化",
+      "page": 68
+    },
+    {
+      "chapter": "3.5 クワイン-マクラスキー法による簡単化",
+      "page": 71
+    },
+    {
+      "chapter": "3.6 ドントケア項を用いたQ-M 法による簡単化",
+      "page": 74
+    },
+    {
+      "chapter": "本章のまとめ",
+      "page": 75
+    },
+    {
+      "chapter": "演習問題",
+      "page": 76
+    },
+    {
+      "chapter": "第4章組合せ回路",
+      "page": 77
+    },
+    {
+      "chapter": "4.1 組合せ回路とは",
+      "page": 77
+    },
+    {
+      "chapter": "4.2 組合せ回路の構成",
+      "page": 78
+    },
+    {
+      "chapter": "4.3 加算器",
+      "page": 83
+    },
+    {
+      "chapter": "4.4 減算器",
+      "page": 90
+    },
+    {
+      "chapter": "4.5 比較器",
+      "page": 92
+    },
+    {
+      "chapter": "4.6 エンコーダとデコーダ",
+      "page": 94
+    },
+    {
+      "chapter": "4.7 マルチプレクサとデマルチプレクサ",
+      "page": 99
+    },
+    {
+      "chapter": "本章のまとめ",
+      "page": 102
+    },
+    {
+      "chapter": "演習問題",
+      "page": 103
+    },
+    {
+      "chapter": "第5章順序回路",
+      "page": 104
+    },
+    {
+      "chapter": "5.1 順序回路とは",
+      "page": 104
+    },
+    {
+      "chapter": "5.2 状態遷移表と状態遷移図",
+      "page": 105
+    },
+    {
+      "chapter": "5.3 フリップフロップ(FF)",
+      "page": 108
+    },
+    {
+      "chapter": "5.4 順序回路の設計",
+      "page": 117
+    },
+    {
+      "chapter": "5.5 レジスタの設計",
+      "page": 124
+    },
+    {
+      "chapter": "5.6 カウンタの設計",
+      "page": 127
+    },
+    {
+      "chapter": "本章のまとめ",
+      "page": 135
+    },
+    {
+      "chapter": "演習問題",
+      "page": 136
+    },
+    {
+      "chapter": "演習問題解答",
+      "page": 137
+    },
+    {
+      "chapter": "参考文献",
+      "page": 159
+    },
+    {
+      "chapter": "索引",
+      "page": 160
+    },
+    {
+      "chapter": "底本奥付",
+      "page": 162
+    },
+    {
+      "chapter": "電子版奥付",
+      "page": 163
+    }
+  ]
+}

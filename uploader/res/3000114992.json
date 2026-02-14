@@ -1,0 +1,91 @@
+{
+  "title": "数学的に話す技術書く技術",
+  "authors": "曽布川, 拓也／山本, 直人（著）",
+  "publisher": "東洋経済新報社",
+  "publication_country": "日本",
+  "language": "日本語",
+  "publication_date": "2021/10",
+  "page_count": "223p",
+  "isbn": "9784492534403",
+  "eisbn": "-",
+  "genre": "理工学 > 数学 > 数学一般・その他",
+  "ndc_class": "410.4",
+  "subject": "数学",
+  "content_id": "3000114992",
+  "downloadable_after_purchase": "可(60ページ)",
+  "description": "中学・高校の復習にとどまらない「数学を使う」本。仕事で数学を「使わざるを得ない」と感じている文系ビジネスマンは必読。",
+  "table_of_contents": [
+    {
+      "chapter": "表紙",
+      "page": 1
+    },
+    {
+      "chapter": "はじめに",
+      "page": 7
+    },
+    {
+      "chapter": "もくじ",
+      "page": 12
+    },
+    {
+      "chapter": "第1部 なぜ、ビジネスに数学が必要になったのか",
+      "page": 21
+    },
+    {
+      "chapter": "第1章 論理性―ビジネスと数学の関係",
+      "page": 22
+    },
+    {
+      "chapter": "第2章 ものの見方としての数学",
+      "page": 36
+    },
+    {
+      "chapter": "第2部 ツールとしての数学の本質",
+      "page": 49
+    },
+    {
+      "chapter": "第3章 数列",
+      "page": 55
+    },
+    {
+      "chapter": "第4章 対数",
+      "page": 74
+    },
+    {
+      "chapter": "第5章 ベクトル",
+      "page": 90
+    },
+    {
+      "chapter": "第6章 確率",
+      "page": 113
+    },
+    {
+      "chapter": "第7章 行列",
+      "page": 132
+    },
+    {
+      "chapter": "第8章 微分・積分",
+      "page": 157
+    },
+    {
+      "chapter": "第3部 数学的に説明する",
+      "page": 179
+    },
+    {
+      "chapter": "第9章 ツールとしての数学をビジネスに",
+      "page": 180
+    },
+    {
+      "chapter": "第10章 数学的に話す・書く",
+      "page": 204
+    },
+    {
+      "chapter": "おわりに",
+      "page": 227
+    },
+    {
+      "chapter": "奥付",
+      "page": 231
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+services:
+  meilisearch:
+    image: getmeili/meilisearch:prototype-japanese-13
+    container_name: meilisearch
+    ports:
+      - "7700:7700"
+    volumes:
+      - ./meili_data:/meili_data # ← ここが重要！
+    environment:
+      - MEILI_MASTER_KEY=${MEILISEARCH_PSW}
+      - MEILI_DB_PATH=/meili_data
+    restart: always
+
+  api:
+    build: ./api
+    container_name: pdf-search-api
+    ports:
+      - "3000:3000"
+    environment:
+      - MEILISEARCH_HOST=http://meilisearch:7700
+      - MEILISEARCH_PSW=${MEILISEARCH_PSW}
+      - PORT=3000
+    depends_on:
+      - meilisearch
+    restart: always
+
+  data_server:
+    build: ./data_server
+    container_name: pdf-data-server
+    ports:
+      - "3001:3001"
+    volumes:
+      - ./pdf_data:/pdf_data
+    environment:
+      - PDF_DIR=/pdf_data
+      - PORT=3001
+    restart: always
+
+  thumbnail_data_server:
+    build: ./thumbnail_data_server
+    container_name: thumbnail-data-server
+    ports:
+      - "3002:3002"
+    volumes:
+      - ./thumbnail_data:/thumbnail_data
+    environment:
+      - thumbnail_DIR=/thumbnail_data
+      - PORT=3002
+    restart: always

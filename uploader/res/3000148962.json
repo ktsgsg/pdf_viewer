@@ -1,0 +1,119 @@
+{
+  "title": "応用数学演習",
+  "authors": "岡本, 和夫（著）",
+  "publisher": "実教出版",
+  "publication_country": "日本",
+  "language": "日本語",
+  "publication_date": "2022/04",
+  "page_count": "79p",
+  "isbn": "9784407349511",
+  "eisbn": "-",
+  "genre": "理工学",
+  "ndc_class": "410",
+  "subject": "応用数学",
+  "content_id": "3000148962",
+  "downloadable_after_purchase": "可(10ページ)",
+  "description": "●大学、高専での使用に適した教科書。●工学専門課程で必要な「ベクトル解析」、「複素解析」、「ラプラス変換」、「フーリエ解析」が一冊にまとまっています。●数多く掲載した問題について、略解を巻末載せた上で、WEBで詳しく解説しています。●改訂に当たり全ページ2色化し、より見やすくなっています。●本書に対応した「新版応用数学 演習 改訂版」を発行しています。",
+  "table_of_contents": [
+    {
+      "chapter": "表紙",
+      "page": 1
+    },
+    {
+      "chapter": "本書の構成と利用",
+      "page": 4
+    },
+    {
+      "chapter": "目次",
+      "page": 5
+    },
+    {
+      "chapter": "1 章―ベクトル解析",
+      "page": 6
+    },
+    {
+      "chapter": "1 ベクトルの演算",
+      "page": 6
+    },
+    {
+      "chapter": "2 ベクトル関数の微分積分",
+      "page": 10
+    },
+    {
+      "chapter": "3 ベクトル場",
+      "page": 16
+    },
+    {
+      "chapter": "4 積分公式",
+      "page": 22
+    },
+    {
+      "chapter": "● 1 章の問題",
+      "page": 26
+    },
+    {
+      "chapter": "2 章―複素解析",
+      "page": 28
+    },
+    {
+      "chapter": "1 複素関数",
+      "page": 28
+    },
+    {
+      "chapter": "2 複素関数の微分",
+      "page": 35
+    },
+    {
+      "chapter": "3 複素関数の積分",
+      "page": 38
+    },
+    {
+      "chapter": "4 複素関数のべき級数展開",
+      "page": 41
+    },
+    {
+      "chapter": "● 2 章の問題",
+      "page": 45
+    },
+    {
+      "chapter": "3 章―ラプラス変換",
+      "page": 48
+    },
+    {
+      "chapter": "1 ラプラス変換",
+      "page": 48
+    },
+    {
+      "chapter": "2 ラプラス変換の応用",
+      "page": 56
+    },
+    {
+      "chapter": "● 3 章の問題",
+      "page": 60
+    },
+    {
+      "chapter": "4 章―フーリエ解析",
+      "page": 62
+    },
+    {
+      "chapter": "1 フーリエ級数",
+      "page": 62
+    },
+    {
+      "chapter": "2 フーリエ変換",
+      "page": 66
+    },
+    {
+      "chapter": "● 4 章の問題",
+      "page": 69
+    },
+    {
+      "chapter": "解答",
+      "page": 70
+    },
+    {
+      "chapter": "奥付",
+      "page": 82
+    }
+  ]
+}

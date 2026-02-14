@@ -1,0 +1,1771 @@
+{
+  "title": "Living in the environment",
+  "authors": "G. Tyler Miller／Scott E. Spoolman（著）",
+  "publisher": "センゲージラーニング",
+  "publication_country": "日本",
+  "language": "英語",
+  "publication_date": "2021/01",
+  "page_count": "832 p.",
+  "isbn": "9780357142202",
+  "eisbn": "9780357142332",
+  "genre": "理工学",
+  "ndc_class": "519",
+  "subject": "Environmental sciences",
+  "content_id": "3000114519",
+  "downloadable_after_purchase": "不可",
+  "description": "",
+  "table_of_contents": [
+    {
+      "chapter": "Cover",
+      "page": 1
+    },
+    {
+      "chapter": "Title",
+      "page": 4
+    },
+    {
+      "chapter": "Copyright",
+      "page": 5
+    },
+    {
+      "chapter": "Brief Contents",
+      "page": 7
+    },
+    {
+      "chapter": "Contents",
+      "page": 8
+    },
+    {
+      "chapter": "Preface",
+      "page": 19
+    },
+    {
+      "chapter": "Learning Skills",
+      "page": 25
+    },
+    {
+      "chapter": "About the Authors",
+      "page": 29
+    },
+    {
+      "chapter": "From the Authors",
+      "page": 30
+    },
+    {
+      "chapter": "Unit 1: Humans and Sustainability: An Overview",
+      "page": 32
+    },
+    {
+      "chapter": "1 The Environment and Sustainability",
+      "page": 33
+    },
+    {
+      "chapter": "Core Case Study Learning from the Earth",
+      "page": 33
+    },
+    {
+      "chapter": "1.1 Principles of Sustainability",
+      "page": 34
+    },
+    {
+      "chapter": "Individuals Matter Janine Benyus: Using Nature to Inspire Sustainable Design and Living",
+      "page": 39
+    },
+    {
+      "chapter": "1.2 Human Impacts on the Earth",
+      "page": 39
+    },
+    {
+      "chapter": "1.3 Causes of Environmental Problems",
+      "page": 44
+    },
+    {
+      "chapter": "Science Focus Some Biomimicry Principles",
+      "page": 48
+    },
+    {
+      "chapter": "Case Study The Rise of Environmental Conservation and Protection in the United States",
+      "page": 48
+    },
+    {
+      "chapter": "1.4 Environmentally Sustainable Societies",
+      "page": 50
+    },
+    {
+      "chapter": "Individuals Matter Tuy Sereivathana: Elephant Protector",
+      "page": 51
+    },
+    {
+      "chapter": "TYING IT ALL TOGETHER Learning from the Earth and Sustainability",
+      "page": 52
+    },
+    {
+      "chapter": "Critical Thinking",
+      "page": 52
+    },
+    {
+      "chapter": "Doing Environmental Science",
+      "page": 53
+    },
+    {
+      "chapter": "Ecological Footprint Analysis",
+      "page": 53
+    },
+    {
+      "chapter": "Unit 2: Science, Ecological Principles, and Sustainability",
+      "page": 54
+    },
+    {
+      "chapter": "2 Science, Matter, Energy, and Systems",
+      "page": 54
+    },
+    {
+      "chapter": "Core Case Study How Do Scientists Learn about Nature? Experimenting with a Forest",
+      "page": 55
+    },
+    {
+      "chapter": "2.1 Science",
+      "page": 56
+    },
+    {
+      "chapter": "Individuals Matter Jane Goodall: Chimpanzee Researcher and Protector",
+      "page": 57
+    },
+    {
+      "chapter": "Science Focus Revisions in a Popular Scientific Hypothesis",
+      "page": 58
+    },
+    {
+      "chapter": "2.2 Matter and Changes in Matter",
+      "page": 59
+    },
+    {
+      "chapter": "2.3 Energy and Changes in Energy",
+      "page": 65
+    },
+    {
+      "chapter": "2.4 Systems and How They Respond to Change",
+      "page": 68
+    },
+    {
+      "chapter": "TYING IT ALL TOGETHER The Hubbard Brook Forest Experiment and Sustainability",
+      "page": 71
+    },
+    {
+      "chapter": "Critical Thinking",
+      "page": 71
+    },
+    {
+      "chapter": "Doing Environmental Science",
+      "page": 72
+    },
+    {
+      "chapter": "Data Analysis",
+      "page": 72
+    },
+    {
+      "chapter": "3 Ecosystems: What Are They and How Do They Work?",
+      "page": 73
+    },
+    {
+      "chapter": "Core Case Study Tropical Rain Forests Are Disappearing",
+      "page": 74
+    },
+    {
+      "chapter": "3.1 Earth’s Life-Support System",
+      "page": 75
+    },
+    {
+      "chapter": "3.2 Ecosystem Components",
+      "page": 76
+    },
+    {
+      "chapter": "3.3 Energy in an Ecosystem",
+      "page": 82
+    },
+    {
+      "chapter": "3.4 Matter in an Ecosystem",
+      "page": 86
+    },
+    {
+      "chapter": "Science Focus Water’s Unique Properties",
+      "page": 88
+    },
+    {
+      "chapter": "3.5 How Do Scientists Study Ecosystems?",
+      "page": 92
+    },
+    {
+      "chapter": "Science Focus Planetary Boundaries",
+      "page": 93
+    },
+    {
+      "chapter": "Individuals Matter Thomas E. Lovejoy—Forest Researcher and Biodiversity Educator",
+      "page": 94
+    },
+    {
+      "chapter": "TYING IT ALL TOGETHER Tropical Rain Forests and Sustainability",
+      "page": 96
+    },
+    {
+      "chapter": "Critical Thinking",
+      "page": 96
+    },
+    {
+      "chapter": "Doing Environmental Science",
+      "page": 97
+    },
+    {
+      "chapter": "Data Analysis",
+      "page": 97
+    },
+    {
+      "chapter": "4 Biodiversity and Evolution",
+      "page": 98
+    },
+    {
+      "chapter": "Core Case Study Why Are Amphibians Vanishing?",
+      "page": 99
+    },
+    {
+      "chapter": "4.1 Earth’s Life",
+      "page": 100
+    },
+    {
+      "chapter": "4.2 Importance of Biodiversity",
+      "page": 102
+    },
+    {
+      "chapter": "Individuals Matter Edward O. Wilson: A Champion of Biodiversity",
+      "page": 104
+    },
+    {
+      "chapter": "4.3 Roles of Species in Ecosystems",
+      "page": 105
+    },
+    {
+      "chapter": "Case Study The American Alligator—A Keystone Species That Almost Went Extinct",
+      "page": 106
+    },
+    {
+      "chapter": "Science Focus Causes of Amphibian Declines",
+      "page": 107
+    },
+    {
+      "chapter": "4.4 Evolution",
+      "page": 108
+    },
+    {
+      "chapter": "4.5 Factors Affecting Biodiversit",
+      "page": 112
+    },
+    {
+      "chapter": "Science Focus Geological Processes Affect Biodiversity",
+      "page": 113
+    },
+    {
+      "chapter": "Case Study The Threatened Monarch Butterfly",
+      "page": 116
+    },
+    {
+      "chapter": "TYING IT ALL TO GETHER Amphibians and Sustainability",
+      "page": 118
+    },
+    {
+      "chapter": "Critical Thinking",
+      "page": 118
+    },
+    {
+      "chapter": "Doing Environmental Science",
+      "page": 119
+    },
+    {
+      "chapter": "Data Analysis",
+      "page": 119
+    },
+    {
+      "chapter": "5 Species Interactions, Ecological Succession, and Population Control",
+      "page": 120
+    },
+    {
+      "chapter": "Core Case Study The Southern Sea Otter: A Species in Recovery",
+      "page": 121
+    },
+    {
+      "chapter": "5.1 Species Interactions",
+      "page": 122
+    },
+    {
+      "chapter": "Science Focus Threats to Kelp Forests",
+      "page": 124
+    },
+    {
+      "chapter": "5.2 Ecological Succession",
+      "page": 127
+    },
+    {
+      "chapter": "5.3 Limits to Population Growth",
+      "page": 129
+    },
+    {
+      "chapter": "Case Study Exploding White-Tailed Deer Populations in the United States",
+      "page": 133
+    },
+    {
+      "chapter": "Science Focus The Future of California’s Southern Sea Otters",
+      "page": 134
+    },
+    {
+      "chapter": "TYING IT ALL TO GETHER Southern Sea Otters and Sustainability",
+      "page": 136
+    },
+    {
+      "chapter": "Critical Thinking",
+      "page": 137
+    },
+    {
+      "chapter": "Doing Environmental Science",
+      "page": 137
+    },
+    {
+      "chapter": "Data Analysis",
+      "page": 138
+    },
+    {
+      "chapter": "6 The Human Population",
+      "page": 139
+    },
+    {
+      "chapter": "Core Case Study Planet Earth: Population 7.6 Billion",
+      "page": 140
+    },
+    {
+      "chapter": "6.1 How Many People Can the Earth Support?",
+      "page": 141
+    },
+    {
+      "chapter": "6.2 Factors Affecting Human opulation Size",
+      "page": 143
+    },
+    {
+      "chapter": "Science Focus Projecting Population Change",
+      "page": 144
+    },
+    {
+      "chapter": "Case Study The U.S. Population—Third Largest and Growing",
+      "page": 144
+    },
+    {
+      "chapter": "6.3 Age Structure and Population Growth",
+      "page": 147
+    },
+    {
+      "chapter": "Case Study The American Baby Boom",
+      "page": 148
+    },
+    {
+      "chapter": "6.4 Slowing Human Population Growth",
+      "page": 150
+    },
+    {
+      "chapter": "Case Study Population Growth in India",
+      "page": 152
+    },
+    {
+      "chapter": "Case Study Slowing Population Growth in China",
+      "page": 153
+    },
+    {
+      "chapter": "TYING IT ALL TO GETHER World Population Growth and Sustainability",
+      "page": 155
+    },
+    {
+      "chapter": "Critical Thinking",
+      "page": 155
+    },
+    {
+      "chapter": "Doing Environmental Science",
+      "page": 156
+    },
+    {
+      "chapter": "Data Analysis",
+      "page": 156
+    },
+    {
+      "chapter": "7 Climate and Terrestrial Biodiversity",
+      "page": 157
+    },
+    {
+      "chapter": "Core Case Study African Savanna",
+      "page": 158
+    },
+    {
+      "chapter": "7.1 Weather",
+      "page": 159
+    },
+    {
+      "chapter": "7.2 Climate",
+      "page": 162
+    },
+    {
+      "chapter": "7.3 Climate and Biomes",
+      "page": 166
+    },
+    {
+      "chapter": "Science Focus Staying Alive in the Desert",
+      "page": 170
+    },
+    {
+      "chapter": "Science Focus Revisiting the Savanna: Elephants as a Keystone Species",
+      "page": 172
+    },
+    {
+      "chapter": "TYING IT ALL TO GETHER Tropical African Savanna and Sustainability",
+      "page": 181
+    },
+    {
+      "chapter": "Critical Thinking",
+      "page": 181
+    },
+    {
+      "chapter": "Doing Environmental Science",
+      "page": 182
+    },
+    {
+      "chapter": "Data Analysis",
+      "page": 182
+    },
+    {
+      "chapter": "8 Aquatic Biodiversity",
+      "page": 183
+    },
+    {
+      "chapter": "Core Case Study Why Should We Care about Coral Reefs?",
+      "page": 184
+    },
+    {
+      "chapter": "8.1 Aquatic Systems",
+      "page": 185
+    },
+    {
+      "chapter": "8.2 Importance of Marine Aquatic Systems",
+      "page": 186
+    },
+    {
+      "chapter": "Case Study Revisiting Coral Reefs—Amazing Centers of Biodiversity",
+      "page": 189
+    },
+    {
+      "chapter": "8.3 Effects of Human Activities on Marine Ecosystems",
+      "page": 191
+    },
+    {
+      "chapter": "Science Focus We Are Still Learning about the Ocean’s Biodiversity",
+      "page": 192
+    },
+    {
+      "chapter": "Case Study The Chesapeake Bay—An Estuary in Trouble",
+      "page": 193
+    },
+    {
+      "chapter": "Individuals Matter Enric Sala: Working to Protect Ocean Ecosystems",
+      "page": 194
+    },
+    {
+      "chapter": "8.4 Importance of Freshwater Ecosystems",
+      "page": 195
+    },
+    {
+      "chapter": "8.5 Effects of Human Activities on Freshwater Ecosystems",
+      "page": 200
+    },
+    {
+      "chapter": "Case Study River Deltas and Coastal Wetlands—Threatened Components of Natural Capital",
+      "page": 200
+    },
+    {
+      "chapter": "TYING IT ALL TO GETHER Coral Reefs and Sustainability",
+      "page": 203
+    },
+    {
+      "chapter": "Critical Thinking",
+      "page": 203
+    },
+    {
+      "chapter": "Doing Environmental Science",
+      "page": 204
+    },
+    {
+      "chapter": "Data Analysis",
+      "page": 204
+    },
+    {
+      "chapter": "Unit 3: Sustaining Biodiversity",
+      "page": 205
+    },
+    {
+      "chapter": "9 Sustaining Biodiversity: Saving Species and Ecosystem Services",
+      "page": 205
+    },
+    {
+      "chapter": "Core Case Study Where Have All the Honeybees Gone?",
+      "page": 206
+    },
+    {
+      "chapter": "9.1 Species Extinction",
+      "page": 207
+    },
+    {
+      "chapter": "Science Focus Estimating Extinction Rates",
+      "page": 208
+    },
+    {
+      "chapter": "9.2 Why Should We Care About Species Extinction?",
+      "page": 210
+    },
+    {
+      "chapter": "9.3 Humans and Species Extinction",
+      "page": 212
+    },
+    {
+      "chapter": "Case Study The Kudzu Vine and Kudzu Bugs",
+      "page": 214
+    },
+    {
+      "chapter": "Case Study Wild Boar Invasions",
+      "page": 216
+    },
+    {
+      "chapter": "Science Focus Honeybee Losses: A Search for Causes",
+      "page": 220
+    },
+    {
+      "chapter": "Case Study A Disturbing Message from the Birds",
+      "page": 222
+    },
+    {
+      "chapter": "Individuals Matter Juliana Machado Ferreira: Conservation Biologist and National Geographic Explorer",
+      "page": 223
+    },
+    {
+      "chapter": "Individuals Matter Cagan Hakki Sekercioglu: Protector of Birds and National Geographic Explorer",
+      "page": 224
+    },
+    {
+      "chapter": "9.4 Sustaining Wild Species and Ecosystem Services",
+      "page": 225
+    },
+    {
+      "chapter": "Case Study The U.S. Endangered Species Act",
+      "page": 225
+    },
+    {
+      "chapter": "TYING IT ALL TO GETHER Honeybees and Sustainability",
+      "page": 230
+    },
+    {
+      "chapter": "Critical Thinking",
+      "page": 230
+    },
+    {
+      "chapter": "Doing Environmental Science",
+      "page": 231
+    },
+    {
+      "chapter": "Data Analysis",
+      "page": 231
+    },
+    {
+      "chapter": "10 Sustaining Biodiversity: Saving Ecosystems and Ecosystem Services",
+      "page": 232
+    },
+    {
+      "chapter": "Core Case Study Costa Rica—A Global Conservation Leader",
+      "page": 233
+    },
+    {
+      "chapter": "10.1 Threats to Forest Ecosystems",
+      "page": 234
+    },
+    {
+      "chapter": "Science Focus Putting a Price Tag on Nature’s Ecosystem Services",
+      "page": 235
+    },
+    {
+      "chapter": "Case Study Many Cleared Forests in the United States Have Grown Back",
+      "page": 240
+    },
+    {
+      "chapter": "10.2 Managing and Sustaining Forests",
+      "page": 242
+    },
+    {
+      "chapter": "Science Focus Certifying Sustainably Grown Timber and Products Such as the Paper Used to Make the Print Version of This Book",
+      "page": 244
+    },
+    {
+      "chapter": "Case Study Deforestation and the Fuelwood Crisis",
+      "page": 246
+    },
+    {
+      "chapter": "Individuals Matter Florence Reed—Preserving Tropical Forests and Overcoming Poverty",
+      "page": 248
+    },
+    {
+      "chapter": "10.3 Managing and Sustaining Grasslands",
+      "page": 248
+    },
+    {
+      "chapter": "10.4 Sustaining Terrestrial Biodiversity and Ecosystem Services",
+      "page": 250
+    },
+    {
+      "chapter": "Case Study Stresses on U.S. Public Parks",
+      "page": 251
+    },
+    {
+      "chapter": "Science Focus Reintroducing the Gray Wolf to Yellowstone National Park",
+      "page": 253
+    },
+    {
+      "chapter": "Case Study Identifying and Protecting Biodiversity in Costa Rica",
+      "page": 254
+    },
+    {
+      "chapter": "Case Study Madagascar: An Endangered Biodiversity Hotspot",
+      "page": 256
+    },
+    {
+      "chapter": "Individuals Matter Gretchen Daily—Shining a Light on Ecosystem Services",
+      "page": 257
+    },
+    {
+      "chapter": "Case Study Ecological Restoration of a Tropical Dry Forest in Costa Rica",
+      "page": 258
+    },
+    {
+      "chapter": "TYING IT ALL TO GETHER Sustaining Costa Rica’s Biodiversity",
+      "page": 259
+    },
+    {
+      "chapter": "Critical Thinking",
+      "page": 260
+    },
+    {
+      "chapter": "Doing Environmental Science",
+      "page": 260
+    },
+    {
+      "chapter": "Ecological Footprint Analysis",
+      "page": 261
+    },
+    {
+      "chapter": "11 Sustaining Aquatic Biodiversity and Ecosystem Services",
+      "page": 262
+    },
+    {
+      "chapter": "Core Case Study The Jellyfish Invasio",
+      "page": 263
+    },
+    {
+      "chapter": "11.1 Threats to Aquatic Biodiversity",
+      "page": 264
+    },
+    {
+      "chapter": "Science Focus Ocean Acidification: The Other C2 Problem",
+      "page": 266
+    },
+    {
+      "chapter": "Science Focus How Invasive Carp Have Muddied Some Waters",
+      "page": 269
+    },
+    {
+      "chapter": "Case Study Why Should We Protect Sharks?",
+      "page": 273
+    },
+    {
+      "chapter": "Case Study Protecting Whales: A Success Story . . . So Far",
+      "page": 274
+    },
+    {
+      "chapter": "Case Study Threatened Sea Turtles",
+      "page": 275
+    },
+    {
+      "chapter": "Science Focus Why Are Jellyfish opulations Increasing?",
+      "page": 276
+    },
+    {
+      "chapter": "11.2 Protecting and Sustaining Marine Biodiversity",
+      "page": 276
+    },
+    {
+      "chapter": "Individuals Matter Sylvia Earle—Advocate for the Oceans",
+      "page": 278
+    },
+    {
+      "chapter": "11.3 Managing and Sustaining Marine Fisheries",
+      "page": 279
+    },
+    {
+      "chapter": "11.4 Protecting and Sustaining Wetlands",
+      "page": 281
+    },
+    {
+      "chapter": "Science Focus The Ecological Importance of Beavers",
+      "page": 282
+    },
+    {
+      "chapter": "Case Study Can We Restore the Florida Everglades?",
+      "page": 283
+    },
+    {
+      "chapter": "11.5 Protecting and Sustaining Freshwater Lakes, Rivers, and Fisheries",
+      "page": 284
+    },
+    {
+      "chapter": "Case Study Can the Great Lakes Survive Repeated Invasions by Alien Species?",
+      "page": 285
+    },
+    {
+      "chapter": "11.6 Priorities for Sustaining Aquatic Biodiversity",
+      "page": 287
+    },
+    {
+      "chapter": "TYING IT ALL TO GETHER Invading Jellyfish and Aquatic Sustainability",
+      "page": 288
+    },
+    {
+      "chapter": "Critical Thinking",
+      "page": 289
+    },
+    {
+      "chapter": "Doing Environmental Science",
+      "page": 289
+    },
+    {
+      "chapter": "Ecological Footprint Analysis",
+      "page": 289
+    },
+    {
+      "chapter": "Unit 4: Sustaining Natural Resources",
+      "page": 291
+    },
+    {
+      "chapter": "12 Food Production and the Environment",
+      "page": 291
+    },
+    {
+      "chapter": "Core Case Study No-Till Farming",
+      "page": 292
+    },
+    {
+      "chapter": "12.1 Food Security",
+      "page": 293
+    },
+    {
+      "chapter": "12.2 Food Production",
+      "page": 296
+    },
+    {
+      "chapter": "Case Study Industrialized Food Production in the United States",
+      "page": 299
+    },
+    {
+      "chapter": "12.3 Environmental Effects of Food Productio",
+      "page": 302
+    },
+    {
+      "chapter": "Science Focus Controversy over Genetically Engineered Foods",
+      "page": 309
+    },
+    {
+      "chapter": "12.4 Protecting Crops from Pests",
+      "page": 311
+    },
+    {
+      "chapter": "Case Study Ecological Surprises: Unintended Consequences",
+      "page": 314
+    },
+    {
+      "chapter": "12.5 Producing Food More Sustainably",
+      "page": 317
+    },
+    {
+      "chapter": "Science Focus The Dirt on No-Till Farming",
+      "page": 319
+    },
+    {
+      "chapter": "Science Focus Hydroponics: Growing Crops without Soil",
+      "page": 320
+    },
+    {
+      "chapter": "Individuals Matter David Tilman—Polyculture Researcher",
+      "page": 323
+    },
+    {
+      "chapter": "Science Focus Perennial Polyculture and the Land Institute",
+      "page": 324
+    },
+    {
+      "chapter": "12.6 Improving Food Security",
+      "page": 325
+    },
+    {
+      "chapter": "TYING IT ALL TO GETHER No-Till Farming and Sustainability",
+      "page": 327
+    },
+    {
+      "chapter": "Critical Thinking",
+      "page": 327
+    },
+    {
+      "chapter": "Doing Environmental Science",
+      "page": 328
+    },
+    {
+      "chapter": "Ecological Footprint Analysis",
+      "page": 328
+    },
+    {
+      "chapter": "13 Water Resources",
+      "page": 330
+    },
+    {
+      "chapter": "Core Case Study The Colorado River",
+      "page": 331
+    },
+    {
+      "chapter": "13.1 Earth’s Water Resources",
+      "page": 332
+    },
+    {
+      "chapter": "Case Study Freshwater Resources in the United States",
+      "page": 335
+    },
+    {
+      "chapter": "Science Focus Using Satellites to Monitor Groundwater Supplies",
+      "page": 338
+    },
+    {
+      "chapter": "13.2 Sustainability of Groundwater",
+      "page": 338
+    },
+    {
+      "chapter": "Case Study Overpumping the Ogallala Aquifer",
+      "page": 340
+    },
+    {
+      "chapter": "13.3 Increasing Freshwater Supplies",
+      "page": 342
+    },
+    {
+      "chapter": "Case Study How Dams Can Kill a Delta",
+      "page": 344
+    },
+    {
+      "chapter": "Science Focus The Search for Better Desalination Technology",
+      "page": 346
+    },
+    {
+      "chapter": "13.4 Water Transfers",
+      "page": 346
+    },
+    {
+      "chapter": "Case Study The Aral Sea Disaster: An Example of Unintended Consequences",
+      "page": 347
+    },
+    {
+      "chapter": "13.5 Using Freshwater More Sustainably",
+      "page": 349
+    },
+    {
+      "chapter": "Individuals Matter Jennifer Burney: Environmental Scientist and National Geographic Explorer",
+      "page": 351
+    },
+    {
+      "chapter": "Case Study How Californians Have Dealt with Water Woes",
+      "page": 352
+    },
+    {
+      "chapter": "13.6 Flooding",
+      "page": 355
+    },
+    {
+      "chapter": "Case Study Living Dangerously on Floodplains in Bangladesh",
+      "page": 356
+    },
+    {
+      "chapter": "TYING IT ALL TO GETHER The Colorado River and Sustainability",
+      "page": 358
+    },
+    {
+      "chapter": "Critical Thinking",
+      "page": 358
+    },
+    {
+      "chapter": "Doing Environmental Science",
+      "page": 359
+    },
+    {
+      "chapter": "Ecological Footprint Analysis",
+      "page": 359
+    },
+    {
+      "chapter": "14 Geology and Mineral Resources",
+      "page": 360
+    },
+    {
+      "chapter": "Core Case Study The Real Cost of Gold",
+      "page": 361
+    },
+    {
+      "chapter": "14.1 Geology and Mineral Resources",
+      "page": 362
+    },
+    {
+      "chapter": "14.2 Supplies of Nonrenewable Mineral Resources",
+      "page": 364
+    },
+    {
+      "chapter": "Case Study The Importance of Rare Earth Metals",
+      "page": 366
+    },
+    {
+      "chapter": "14.3 Environmental Effects of Using Nonrenewable Mineral Resources",
+      "page": 368
+    },
+    {
+      "chapter": "14.4 Using Mineral Resources More Sustainably",
+      "page": 372
+    },
+    {
+      "chapter": "Science Focus The Nanotechnology Revolution",
+      "page": 373
+    },
+    {
+      "chapter": "Case Study Graphene and Phosphorene: New Revolutionary Materials",
+      "page": 373
+    },
+    {
+      "chapter": "Individuals Matter Yu-Guo Guo: Designer of Nanotechnology Batteries and National Geographic Explorer",
+      "page": 374
+    },
+    {
+      "chapter": "14.5 Geological Hazards",
+      "page": 375
+    },
+    {
+      "chapter": "TYING IT ALL TO GETHER The Real Cost of Gold and Sustainability",
+      "page": 380
+    },
+    {
+      "chapter": "Critical Thinking",
+      "page": 381
+    },
+    {
+      "chapter": "Doing Environmental Science",
+      "page": 381
+    },
+    {
+      "chapter": "Data Analysis",
+      "page": 381
+    },
+    {
+      "chapter": "15 Nonrenewable Energy",
+      "page": 382
+    },
+    {
+      "chapter": "Core Case Study Using Hydrofracking to Produce Oil and Natural Gas",
+      "page": 383
+    },
+    {
+      "chapter": "15.1 Energy Resources",
+      "page": 384
+    },
+    {
+      "chapter": "15.2 Oil",
+      "page": 386
+    },
+    {
+      "chapter": "Case Study Oil Production and Consumption in the United States",
+      "page": 387
+    },
+    {
+      "chapter": "15.3 Natural Gas",
+      "page": 389
+    },
+    {
+      "chapter": "15.4 Coal",
+      "page": 390
+    },
+    {
+      "chapter": "Science Focus Environmental Effects of Natural Gas Production and Fracking in the United States",
+      "page": 391
+    },
+    {
+      "chapter": "Individuals Matter Maria Gunnoe: Fighting to Save Mountains",
+      "page": 392
+    },
+    {
+      "chapter": "15.5 Nuclear Power",
+      "page": 396
+    },
+    {
+      "chapter": "Case Study The Fukushima Daiichi Nuclear Power Plant Accident in Japan",
+      "page": 402
+    },
+    {
+      "chapter": "TYING IT ALL TO GETHER Fracking, Nonrenewable Energy, and Sustainability",
+      "page": 404
+    },
+    {
+      "chapter": "Critical Thinking",
+      "page": 404
+    },
+    {
+      "chapter": "Doing Environmental Science",
+      "page": 405
+    },
+    {
+      "chapter": "Data Analysis",
+      "page": 405
+    },
+    {
+      "chapter": "16 Energy Efficiency and Renewable Energy",
+      "page": 406
+    },
+    {
+      "chapter": "Core Case Study Saving Energy and Money",
+      "page": 407
+    },
+    {
+      "chapter": "16.1 A New Energy Transition",
+      "page": 408
+    },
+    {
+      "chapter": "16.2 Reducing Energy Waste",
+      "page": 409
+    },
+    {
+      "chapter": "Science Focus The Search for Better Batteries",
+      "page": 413
+    },
+    {
+      "chapter": "16.3 Solar Energy",
+      "page": 418
+    },
+    {
+      "chapter": "16.4 Wind Energy",
+      "page": 424
+    },
+    {
+      "chapter": "Science Focus Making Wind Turbines Safer for Birds and Bats",
+      "page": 427
+    },
+    {
+      "chapter": "16.5 Geothermal Energy",
+      "page": 427
+    },
+    {
+      "chapter": "Individuals Matter Andres Ruzo—Geothermal Energy Sleuth and National Geographic Explorer",
+      "page": 429
+    },
+    {
+      "chapter": "16.6 Biomass Energy",
+      "page": 430
+    },
+    {
+      "chapter": "16.7 Hydropower",
+      "page": 432
+    },
+    {
+      "chapter": "16.8 Hydrogen",
+      "page": 433
+    },
+    {
+      "chapter": "16.9 A More Sustainable Energy Future",
+      "page": 434
+    },
+    {
+      "chapter": "TYING IT ALL TO GETHER Saving Energy and Money and Reducing Our Environmental Impact",
+      "page": 436
+    },
+    {
+      "chapter": "Critical Thinking",
+      "page": 436
+    },
+    {
+      "chapter": "Doing Environmental Science",
+      "page": 437
+    },
+    {
+      "chapter": "Data Analysis",
+      "page": 437
+    },
+    {
+      "chapter": "Unit 5: Sustaining Environmental Quality",
+      "page": 438
+    },
+    {
+      "chapter": "17 Environmental Hazards and Human Health",
+      "page": 438
+    },
+    {
+      "chapter": "Core Case Study Mercury’s Toxic Effect",
+      "page": 439
+    },
+    {
+      "chapter": "17.1 Health Hazards and Risk Assessment",
+      "page": 440
+    },
+    {
+      "chapter": "17.2 Biological Hazards",
+      "page": 440
+    },
+    {
+      "chapter": "Science Focus Genetic Resistance to Antibiotics and Antifungals",
+      "page": 442
+    },
+    {
+      "chapter": "Case Study The Global Threat from Tuberculosis",
+      "page": 443
+    },
+    {
+      "chapter": "Individuals Matter Hayat Sindi: Health Science Entrepreneur",
+      "page": 444
+    },
+    {
+      "chapter": "Case Study The Global HIV/AIDS Epidemic",
+      "page": 445
+    },
+    {
+      "chapter": "Science Focus Ecological Medicine: Tracking Infectious Diseases from Animals to Humans",
+      "page": 446
+    },
+    {
+      "chapter": "Case Study Malaria—The Spread of a Deadly Parasite",
+      "page": 447
+    },
+    {
+      "chapter": "17.3 Chemical Hazards",
+      "page": 449
+    },
+    {
+      "chapter": "Case Study PCBs—A Toxic Legacy from the Past",
+      "page": 449
+    },
+    {
+      "chapter": "Science Focus The Controversy over BPA",
+      "page": 452
+    },
+    {
+      "chapter": "17.4 Evaluating Risks from Chemical Hazards",
+      "page": 453
+    },
+    {
+      "chapter": "Case Study Protecting Children from Toxic Chemicals",
+      "page": 454
+    },
+    {
+      "chapter": "Case Study Pollution Prevention Pays",
+      "page": 458
+    },
+    {
+      "chapter": "17.5 Perceiving and Avoiding Risks",
+      "page": 460
+    },
+    {
+      "chapter": "Case Study Cigarettes and E-Cigarettes",
+      "page": 461
+    },
+    {
+      "chapter": "TYING IT ALL TO GETHER Mercury’s Toxic Effects and Sustainability",
+      "page": 465
+    },
+    {
+      "chapter": "Critical Thinking",
+      "page": 465
+    },
+    {
+      "chapter": "Doing Environmental Science",
+      "page": 466
+    },
+    {
+      "chapter": "Data Analysis",
+      "page": 466
+    },
+    {
+      "chapter": "18 Air Pollution and Ozone Depletion",
+      "page": 467
+    },
+    {
+      "chapter": "Core Case Study Los Angeles Air Pollution",
+      "page": 468
+    },
+    {
+      "chapter": "18.1 The Atmosphere",
+      "page": 469
+    },
+    {
+      "chapter": "18.2 Outdoor Air Pollution",
+      "page": 470
+    },
+    {
+      "chapter": "Science Focus Atmospheric Brown Clouds",
+      "page": 471
+    },
+    {
+      "chapter": "Case Study Lead: A Highly Toxic Pollutant",
+      "page": 474
+    },
+    {
+      "chapter": "Science Focus Detecting Air Pollutants and Monitoring Air Quality",
+      "page": 475
+    },
+    {
+      "chapter": "18.3 Acid Deposition",
+      "page": 478
+    },
+    {
+      "chapter": "18.4 Indoor Air Pollution",
+      "page": 482
+    },
+    {
+      "chapter": "Case Study Radioactive Radon Gas",
+      "page": 484
+    },
+    {
+      "chapter": "18.5 Health Effects of Air ollution",
+      "page": 485
+    },
+    {
+      "chapter": "18.6 Reducing Air Pollution",
+      "page": 486
+    },
+    {
+      "chapter": "Case Study Revisiting Air Pollution in Los Angeles",
+      "page": 489
+    },
+    {
+      "chapter": "18.7 Ozone Layer Depletion",
+      "page": 492
+    },
+    {
+      "chapter": "Individuals Matter Sherwood Rowland and Mario Molina—A Scientific Story of Expertise, Courage, and Persistence",
+      "page": 493
+    },
+    {
+      "chapter": "TYING IT ALL TO GETHER Los Angeles Air Pollution and Sustainability",
+      "page": 496
+    },
+    {
+      "chapter": "Critical Thinking",
+      "page": 496
+    },
+    {
+      "chapter": "Doing Environmental Science",
+      "page": 497
+    },
+    {
+      "chapter": "Data Analysis",
+      "page": 497
+    },
+    {
+      "chapter": "19 Climate Change",
+      "page": 498
+    },
+    {
+      "chapter": "Core Case Study Rising Sea Levels",
+      "page": 499
+    },
+    {
+      "chapter": "19.1 Climate Change",
+      "page": 500
+    },
+    {
+      "chapter": "Science Focus The Study of Past and Current Climate Change",
+      "page": 501
+    },
+    {
+      "chapter": "19.2 Causes Of Climate Change",
+      "page": 503
+    },
+    {
+      "chapter": "Science Focus Using Models to Project Future Changes in Atmospheric Temperatures",
+      "page": 507
+    },
+    {
+      "chapter": "19.3 Effects Of Climate Chang",
+      "page": 510
+    },
+    {
+      "chapter": "Individuals Matter James Balog: Watching Glaciers Melt",
+      "page": 514
+    },
+    {
+      "chapter": "Case Study Alaska—A Preview of Climate Change",
+      "page": 519
+    },
+    {
+      "chapter": "19.4 Slowing Climate Change",
+      "page": 521
+    },
+    {
+      "chapter": "19.5 Adapting To Climate Change",
+      "page": 531
+    },
+    {
+      "chapter": "TYING IT ALL TO GETHER Rising Sea Levels and Sustainability",
+      "page": 533
+    },
+    {
+      "chapter": "Critical Thinking",
+      "page": 533
+    },
+    {
+      "chapter": "Doing Environmental Science",
+      "page": 534
+    },
+    {
+      "chapter": "Ecological Footprint Analysis",
+      "page": 534
+    },
+    {
+      "chapter": "20 Water Pollution",
+      "page": 536
+    },
+    {
+      "chapter": "Core Case Study The Gulf of Mexico’s Annual Dead Zone",
+      "page": 537
+    },
+    {
+      "chapter": "20.1 Water Pollution: Causes and Effect",
+      "page": 538
+    },
+    {
+      "chapter": "Science Focus Testing Water for Pollutants",
+      "page": 541
+    },
+    {
+      "chapter": "20.2 Stream and Lake Pollution",
+      "page": 541
+    },
+    {
+      "chapter": "Case Study Pollution in the Great Lakes",
+      "page": 545
+    },
+    {
+      "chapter": "20.3 Groundwater Pollution",
+      "page": 546
+    },
+    {
+      "chapter": "Case Study Arsenic in Drinking Water",
+      "page": 548
+    },
+    {
+      "chapter": "Science Focus Converting Dirty Water to Drinking Water",
+      "page": 550
+    },
+    {
+      "chapter": "Case Study Is Bottled Water a Good Option?",
+      "page": 550
+    },
+    {
+      "chapter": "Case Study Lead in Drinking Water: Flint Michigan",
+      "page": 551
+    },
+    {
+      "chapter": "20.4 Ocean Pollution",
+      "page": 552
+    },
+    {
+      "chapter": "Science Focus Gulf of Mexico Dead Zone: A Closer Look",
+      "page": 554
+    },
+    {
+      "chapter": "Case Study Ocean Garbage Patches: There Is No Away",
+      "page": 554
+    },
+    {
+      "chapter": "Case Study The BP Deepwater Horizon Oil Spill",
+      "page": 556
+    },
+    {
+      "chapter": "20.5 Water Pollution Solutions",
+      "page": 557
+    },
+    {
+      "chapter": "Case Study Reducing Water Pollution in the United States",
+      "page": 559
+    },
+    {
+      "chapter": "Science Focus Treating Sewage by Learning from Nature",
+      "page": 563
+    },
+    {
+      "chapter": "TYING IT ALL TO GETHER Dead Zones and Sustainability",
+      "page": 565
+    },
+    {
+      "chapter": "Critical Thinking",
+      "page": 565
+    },
+    {
+      "chapter": "Doing Environmental Science",
+      "page": 566
+    },
+    {
+      "chapter": "Data Analysis",
+      "page": 566
+    },
+    {
+      "chapter": "21 Solid and Hazardous Waste",
+      "page": 567
+    },
+    {
+      "chapter": "Core Case Study Cradle-to-Cradle Design",
+      "page": 568
+    },
+    {
+      "chapter": "21.1 Solid and Hazardous Waste Problems",
+      "page": 569
+    },
+    {
+      "chapter": "Case Study Solid Waste in the United States",
+      "page": 570
+    },
+    {
+      "chapter": "Science Focus Garbology and Tracking Trash",
+      "page": 571
+    },
+    {
+      "chapter": "Case Study E-Waste—A Serious Hazardous Waste Problem",
+      "page": 572
+    },
+    {
+      "chapter": "21.2 Dealing With Solid Waste",
+      "page": 572
+    },
+    {
+      "chapter": "21.3 Reducing Solid Waste",
+      "page": 574
+    },
+    {
+      "chapter": "Individuals Matter William McDonough",
+      "page": 575
+    },
+    {
+      "chapter": "Science Focus Bioplastics",
+      "page": 579
+    },
+    {
+      "chapter": "Case Study A Threat to U.S. Recycling",
+      "page": 580
+    },
+    {
+      "chapter": "21.4 Burning or Burying Solid Waste",
+      "page": 580
+    },
+    {
+      "chapter": "21.5 Dealing With Hazardous Waste",
+      "page": 584
+    },
+    {
+      "chapter": "Case Study Recycling E-Waste",
+      "page": 584
+    },
+    {
+      "chapter": "Case Study Hazardous Waste Regulation in the United States",
+      "page": 587
+    },
+    {
+      "chapter": "21.6 A Low-Waste Economy",
+      "page": 589
+    },
+    {
+      "chapter": "Case Study Industrial Ecosystems: Biomimicry",
+      "page": 590
+    },
+    {
+      "chapter": "TYING IT ALL TO GETHER The Cradle-to-Cradle Approach and Sustainability",
+      "page": 592
+    },
+    {
+      "chapter": "Critical Thinking",
+      "page": 593
+    },
+    {
+      "chapter": "Doing Environmental Science",
+      "page": 593
+    },
+    {
+      "chapter": "Ecological Footprint Analysis",
+      "page": 594
+    },
+    {
+      "chapter": "22 Urbanization and Sustainability",
+      "page": 595
+    },
+    {
+      "chapter": "Core Case Study Portland, Oregon: Urban Sustainability in Action",
+      "page": 596
+    },
+    {
+      "chapter": "22.1 Urbanization",
+      "page": 597
+    },
+    {
+      "chapter": "Case Study Urbanization in the United States",
+      "page": 598
+    },
+    {
+      "chapter": "22.2 Resource and Environmental Problems",
+      "page": 601
+    },
+    {
+      "chapter": "Case Study Mexico City",
+      "page": 604
+    },
+    {
+      "chapter": "22.3 Transportation",
+      "page": 605
+    },
+    {
+      "chapter": "22.4 Land-Use Planning",
+      "page": 609
+    },
+    {
+      "chapter": "22.5 Urban Sustainability",
+      "page": 611
+    },
+    {
+      "chapter": "Science Focus Sustainable Community Development—A Key to Global Sustainability",
+      "page": 613
+    },
+    {
+      "chapter": "Case Study The Eco-City Concept in Curitiba, Brazil",
+      "page": 614
+    },
+    {
+      "chapter": "Individuals Matter Peggy M. Shepherd: Fighting for Environmental Justice in Urban America",
+      "page": 615
+    },
+    {
+      "chapter": "TYING IT ALL TO GETHER Portland, Oregon, and Sustainability",
+      "page": 617
+    },
+    {
+      "chapter": "Critical Thinking",
+      "page": 617
+    },
+    {
+      "chapter": "Doing Environmental Science",
+      "page": 618
+    },
+    {
+      "chapter": "Ecological Footprint Analysis",
+      "page": 618
+    },
+    {
+      "chapter": "Unit 6: Sustaining Human Societies",
+      "page": 619
+    },
+    {
+      "chapter": "23 Economics, Environment, and Sustainability",
+      "page": 619
+    },
+    {
+      "chapter": "Core Case Study Germany: Using Economics to Shift to Renewable Energy",
+      "page": 620
+    },
+    {
+      "chapter": "23.1 Economic Systems and the Biosphere",
+      "page": 621
+    },
+    {
+      "chapter": "23.2 Economic Value of Natural Capital and Pollution Control",
+      "page": 624
+    },
+    {
+      "chapter": "23.3 Using Economics to Deal With Environmental Problems",
+      "page": 627
+    },
+    {
+      "chapter": "Individuals Matter Paul Hawken: Businessman and Environmental Champion",
+      "page": 628
+    },
+    {
+      "chapter": "23.4 Poverty and Environmental Problems",
+      "page": 633
+    },
+    {
+      "chapter": "Case Study Microlending",
+      "page": 634
+    },
+    {
+      "chapter": "23.5 Environmentally Sustainable Economies",
+      "page": 636
+    },
+    {
+      "chapter": "TYING IT ALL TO GETHER Germany’s Transition to Renewable Energy and Sustainability",
+      "page": 640
+    },
+    {
+      "chapter": "Critical Thinking",
+      "page": 640
+    },
+    {
+      "chapter": "Doing Environmental Science",
+      "page": 641
+    },
+    {
+      "chapter": "Data Analysis",
+      "page": 641
+    },
+    {
+      "chapter": "24 Politics, Environment, and Sustainability",
+      "page": 642
+    },
+    {
+      "chapter": "Core Case Study The Greening of American Campuses",
+      "page": 643
+    },
+    {
+      "chapter": "24.1 Government Role in a Transition to Sustainable Societies",
+      "page": 644
+    },
+    {
+      "chapter": "24.2 Environmental Policy",
+      "page": 647
+    },
+    {
+      "chapter": "Science Focus Science and Politics—Principles and Procedures",
+      "page": 649
+    },
+    {
+      "chapter": "Individuals Matter Xiuhtezcatl Roske-Martinez",
+      "page": 650
+    },
+    {
+      "chapter": "24.3 Environmental Laws",
+      "page": 651
+    },
+    {
+      "chapter": "Case Study A Weaker U.S. Environmental Protection Agency",
+      "page": 655
+    },
+    {
+      "chapter": "24.4 Environmental Groups",
+      "page": 655
+    },
+    {
+      "chapter": "Case Study The Natural Resources Defense Council",
+      "page": 656
+    },
+    {
+      "chapter": "Case Study The Environmental Transformation of Chattanooga, Tennessee",
+      "page": 657
+    },
+    {
+      "chapter": "Individuals Matter Butterfly in a Redwood Tree",
+      "page": 658
+    },
+    {
+      "chapter": "24.5 Environmental Security",
+      "page": 659
+    },
+    {
+      "chapter": "24.6 Sustainable and Just Environmental Policies",
+      "page": 662
+    },
+    {
+      "chapter": "Case Study The Netherlands—A Model for a National Green Plan",
+      "page": 662
+    },
+    {
+      "chapter": "TYING IT ALL TO GETHER Greening College Campuses and Sustainability",
+      "page": 664
+    },
+    {
+      "chapter": "Critical Thinking",
+      "page": 664
+    },
+    {
+      "chapter": "Doing Environmental Science",
+      "page": 665
+    },
+    {
+      "chapter": "Data Analysis",
+      "page": 665
+    },
+    {
+      "chapter": "25 Environmental Worldviews, Ethics, and Sustainability",
+      "page": 666
+    },
+    {
+      "chapter": "Core Case Study Biosphere 2—A Lesson in Humility",
+      "page": 667
+    },
+    {
+      "chapter": "25.1 Environmental Worldviews",
+      "page": 668
+    },
+    {
+      "chapter": "Case Study Managing Public Lands in the United States—A Clash of Worldviews",
+      "page": 671
+    },
+    {
+      "chapter": "25.2 Role Of Education",
+      "page": 673
+    },
+    {
+      "chapter": "Individuals Matter Juan Martinez: Connecting People with Nature",
+      "page": 676
+    },
+    {
+      "chapter": "25.3 Living More Sustainably",
+      "page": 676
+    },
+    {
+      "chapter": "Individuals Matter Aldo Leopold",
+      "page": 677
+    },
+    {
+      "chapter": "Science Focus Biosphere 3: Can We Move to Mars?",
+      "page": 679
+    },
+    {
+      "chapter": "Case Study The United States, China, and Sustainability",
+      "page": 679
+    },
+    {
+      "chapter": "Individuals Matter Lester R. Brown: Champion of Sustainability",
+      "page": 681
+    },
+    {
+      "chapter": "TYING IT ALL TO GETHER Biosphere 2: A Lesson in Humility",
+      "page": 683
+    },
+    {
+      "chapter": "Critical Thinking",
+      "page": 683
+    },
+    {
+      "chapter": "Doing Environmental Science",
+      "page": 684
+    },
+    {
+      "chapter": "Ecological Footprint Analysis",
+      "page": 684
+    },
+    {
+      "chapter": "Glossary",
+      "page": 686
+    },
+    {
+      "chapter": "Index",
+      "page": 710
+    }
+  ]
+}
