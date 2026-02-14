@@ -24,26 +24,13 @@ services:
       - meilisearch
     restart: always
 
-  data_server:
-    build: ./data_server
-    container_name: pdf-data-server
+  file_server:
+    image: nginx:alpine
+    container_name: file-server
     ports:
-      - "3001:3001"
+      - "8080:80"
     volumes:
-      - ./pdf_data:/pdf_data
-    environment:
-      - PDF_DIR=/pdf_data
-      - PORT=3001
-    restart: always
-
-  thumbnail_data_server:
-    build: ./thumbnail_data_server
-    container_name: thumbnail-data-server
-    ports:
-      - "3002:3002"
-    volumes:
-      - ./thumbnail_data:/thumbnail_data
-    environment:
-      - thumbnail_DIR=/thumbnail_data
-      - PORT=3002
+      - ./nginx/nginx.conf:/etc/nginx/conf.d/default.conf:ro
+      - ./pdf_data:/data/pdf:ro
+      - ./thumbnail_data:/data/thumbnail:ro
     restart: always
