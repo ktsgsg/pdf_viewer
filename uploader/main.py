@@ -64,7 +64,7 @@ def import_books():
                     
                     # 重要：Meilisearch用のIDをセット
                     book_data['id'] = get_safe_id(book_data, filename)
-                    
+                    print(f"{file_path}を読み込みました")
                     documents.append(book_data)
                 except Exception as e:
                     print(f"スキップ ({filename}): {e}")
