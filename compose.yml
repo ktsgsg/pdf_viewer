@@ -35,7 +35,7 @@ services:
       - "80:80"
     volumes:
       - ./nginx/nginx.conf:/etc/nginx/conf.d/default.conf:ro
-      - ./file_data:/data:ro
+      - /mnt/sde1/storage:/data:ro
     restart: always
     networks:
       - pdf_network
