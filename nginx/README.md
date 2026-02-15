@@ -10,6 +10,7 @@ PDF・サムネイルファイルを配信するnginxベースのファイルサ
 | `/thumbnail/{id}.png` | サムネイル画像取得           |
 | `/pdf/`               | PDFファイル一覧（autoindex） |
 | `/thumbnail/`         | サムネイル一覧（autoindex）  |
+| `/files/`             | 全ファイル一覧（統合ビュー） |
 | `/health`             | ヘルスチェック               |
 
 ## 使用例
@@ -23,18 +24,21 @@ curl "http://localhost:8080/thumbnail/3000000149.png" --output thumb.png
 
 # ファイル一覧を確認
 curl "http://localhost:8080/pdf/"
+curl "http://localhost:8080/files/"  # 統合ビュー
 ```
 
 ## ファイル配置
 
-```
-pdf_data/
-├── 3000000149.pdf
-└── 3000000150.pdf
+PDFとサムネイルは `file_data/` フォルダで一元管理されています。
 
-thumbnail_data/
-├── 3000000149.png
-└── 3000000150.png
+```
+file_data/
+├── pdf/
+│   ├── 3000000149.pdf
+│   └── 3000000150.pdf
+└── thumbnail/
+    ├── 3000000149.png
+    └── 3000000150.png
 ```
 
 ## フロントエンドからの使用例
