@@ -38,6 +38,7 @@ services:
       - ./nginx/nginx.conf:/etc/nginx/conf.d/default.conf:ro
       - ./nginx/origin.pem:/etc/nginx/certs/origin.pem:ro
       - ./nginx/origin-key.pem:/etc/nginx/certs/origin-key.pem:ro
+      - ./nginx/.htpasswd:/etc/nginx/.htpasswd:ro
       - /mnt/sde1/storage:/data:ro
     depends_on:
       - api
